@@ -1,0 +1,15 @@
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\bin\Debug\net6.0\ProyectoSnake.exe
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\bin\Debug\net6.0\ProyectoSnake.deps.json
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\bin\Debug\net6.0\ProyectoSnake.runtimeconfig.json
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\bin\Debug\net6.0\ProyectoSnake.dll
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\bin\Debug\net6.0\ProyectoSnake.pdb
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.csproj.AssemblyReference.cache
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.AssemblyInfoInputs.cache
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.AssemblyInfo.cs
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.csproj.CoreCompileInputs.cache
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.dll
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\refint\ProyectoSnake.dll
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.pdb
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ProyectoSnake.genruntimeconfig.cache
+C:\Users\NOTEBOOK\source\repos\ProyectoSnake\obj\Debug\net6.0\ref\ProyectoSnake.dll
